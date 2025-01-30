@@ -1,1 +1,1 @@
-echo #hello form run.sh'
+echo 'hello form run.sh'
